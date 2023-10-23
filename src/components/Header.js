@@ -4,6 +4,8 @@ import Contact from './Contact'
 import Home from './Home'
 import Work from './Work'
 import Resume from './Resume'
+import '../styles.css/Header.css'
+
 
 import {
   BrowserRouter as Router,

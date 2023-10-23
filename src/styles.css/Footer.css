@@ -1,0 +1,23 @@
+.grid-container {
+  padding: 20px 60px;
+  display: table;
+}
+.built-using {
+  padding: 20px;
+}
+
+.contact-item {
+  line-height: 30px;
+  vertical-align: middle;
+}
+
+i {
+  line-height: 30px;
+  display: table-cell
+}
+
+a {
+  line-height: 30px;
+  vertical-align: middle;
+  display: table-cell;
+}
