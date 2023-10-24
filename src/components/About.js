@@ -1,10 +1,11 @@
 import React from 'react'
 import { Grid } from '@mui/material'
+import '../styles.css/About.css'
 
 function About() {
   return (
     <div>
-        <div>
+      <div>
         <Grid container spacing={4}>
           <Grid item xs={12} md={4}>
             <h5>hometown</h5>
@@ -20,7 +21,7 @@ function About() {
           </Grid>
         </Grid>
       </div>
-      <p>
+      <div className="bio">
         I developed an interest in language-learning at a young age, which took
         me from studying Spanish, French, and ASL throughout high school to
         graduating from Lawrence University with a Bachelor's degree in
@@ -34,7 +35,7 @@ function About() {
         ecommerce site trafficked in over 140 countries, though I am open to
         opportunities that more closely align with my interests whether it be in
         language, education, or artistry.
-      </p>
+      </div>
     </div>
   )
 }
