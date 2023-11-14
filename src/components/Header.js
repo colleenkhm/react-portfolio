@@ -6,7 +6,6 @@ import Work from './Work'
 import Resume from './Resume'
 import '../styles.css/Header.css'
 
-
 import {
   BrowserRouter as Router,
   Link,

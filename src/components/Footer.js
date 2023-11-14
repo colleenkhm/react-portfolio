@@ -16,6 +16,7 @@ function Footer() {
           <div className="contact-item">
             <i className="fa-solid fa-people-arrows-left-right fa-2x"></i>
             <a
+            className="contact-link"
               href="https://www.linkedin.com/in/colleen-murray-161314230/"
               target="_blank"
               rel="noopener noreferrer"
@@ -45,6 +46,7 @@ function Footer() {
           <div className="contact-item">
             <i className="fa-solid fa-desktop fa-2x"></i>
             <a
+              className="contact-link"
               href="https://github.com/colleenkhm"
               target="_blank"
               rel="noopener noreferrer"
@@ -58,6 +60,7 @@ function Footer() {
           <div className="contact-item">
             <i className="fas fa-comments fa-2x"></i>
             <a
+            className="contact-link"
               href="https://www.duolingo.com/profile/colleenkhm"
               target="_blank"
               rel="noopener noreferrer"

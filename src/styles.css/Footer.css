@@ -16,7 +16,7 @@ i {
   display: table-cell
 }
 
-a {
+.contact-link {
   line-height: 30px;
   vertical-align: middle;
   display: table-cell;
