@@ -8,8 +8,8 @@ function Resume() {
   return (
     <div className="skills-container">
       <div>
-        <Grid container spacing={4}>
-          <Grid item xs={12} md={4}>
+        <Grid container spacing={5}>
+          <Grid item xs={12} md={3}>
             <div className="skills" id="technical-skills">
               <h4>Technical Skills</h4>
               <ul>
@@ -27,7 +27,7 @@ function Resume() {
               </ul>
             </div>
           </Grid>
-          <Grid item xs={12} md={4}>
+          <Grid item xs={12} md={3}>
             <div className="skills" id="soft-skills">
               <h4>Soft Skills</h4>
               <ul>
@@ -41,7 +41,7 @@ function Resume() {
               </ul>
             </div>
           </Grid>
-          <Grid item xs={12} md={4}>
+          <Grid item xs={12} md={6}>
             <div className="resume-image">
               <img src={resumeScreenshot} alt="resume"></img>
             </div>

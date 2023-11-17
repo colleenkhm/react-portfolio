@@ -12,3 +12,7 @@
   margin: 30px;
   display: flex;
 }
+
+.skills ul li {
+  display: block;
+}
