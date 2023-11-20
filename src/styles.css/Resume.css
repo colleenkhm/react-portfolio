@@ -1,6 +1,26 @@
-.resume img {
-  width: 100%;
-  height: 100%;
+.centered-grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.resume-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 140%;
+}
+
+.resume-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
 
 .resume a {
@@ -8,11 +28,19 @@
 }
 
 .skills-container {
-  width: 80%;
-  margin: 30px;
+  width: 95%;
+  margin: 0 auto;
   display: flex;
 }
 
 .skills ul {
   display: block;
+}
+
+.skills ul li {
+  font-size: 15px;
+}
+.resume-link {
+  text-align: center;
+  margin-top: 10px;
 }
