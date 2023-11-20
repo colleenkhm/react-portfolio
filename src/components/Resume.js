@@ -29,15 +29,16 @@ function Resume() {
           </Grid>
           <Grid item xs={12} md={3}>
             <div className="skills" id="soft-skills">
-              <h4>Soft Skills</h4>
+              <h4>Other Strengths</h4>
               <ul>
                 <li>Adaptability</li>
                 <li>Customer Service</li>
                 <li>Collaboration</li>
-                <li>Language/Translation</li>
                 <li>Leadership</li>
                 <li>Education</li>
                 <li>Growth Mindset</li>
+                <li>Empathy</li>
+                <li>Language/Translation</li>
               </ul>
             </div>
           </Grid>

@@ -26,15 +26,14 @@ function About() {
         me from studying Spanish, French, and ASL throughout high school to
         graduating from Lawrence University with a Bachelor's degree in
         Linguistics and Classical Languages & Literature. After dedicating a
-        year to national volunteer service through AmeriCorps I worked as a
+        year to national volunteer service through AmeriCorps, I worked as a
         barista and as a bartender while exploring potential career
         opportunities. I discovered coding to be the intersection of language,
         creativity, and logic I had sought after for so long and eventually went
         on to obtain a Full Stack Web Development Certificate through Washington
         University in St. Louis. I currently work as a software engineer for an
-        ecommerce site trafficked in over 140 countries, though I am open to
-        opportunities that more closely align with my interests whether it be in
-        language, education, or artistry.
+        ecommerce site trafficked in over 140 countries, though I am open to coding opportunities that more closely align with my interests whether they be in
+        language, education, or the arts.
       </div>
     </div>
   )

@@ -18,8 +18,10 @@ function Work() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <h4>timely</h4>
-            <p>HTML/CSS/JavaScript</p>
+            <div>
+              <h4>timely</h4>
+              <p>HTML/CSS/JavaScript</p>
+            </div>
           </a>
         </div>
       </Grid>
@@ -31,8 +33,10 @@ function Work() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <h4>rebound</h4>
-            <p>HTML/CSS/JavaScript</p>
+            <div>
+              <h4>rebound</h4>
+              <p>HTML/CSS/JavaScript</p>
+            </div>
           </a>
         </div>
       </Grid>
@@ -44,8 +48,10 @@ function Work() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <h4>BIWOC Health</h4>
-            <p>HTML/CSS/Squarespace</p>
+            <div>
+              <h4>BIWOC Health</h4>
+              <p>HTML/CSS/Squarespace</p>
+            </div>
           </a>
         </div>
       </Grid>
@@ -57,8 +63,10 @@ function Work() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <h4>team profile generator</h4>
-            <p>Node/Inquirer/Jest</p>
+            <div>
+              <h4>team profile generator</h4>
+              <p>Node/Inquirer/Jest</p>
+            </div>
           </a>
         </div>
       </Grid>

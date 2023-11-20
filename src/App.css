@@ -6,6 +6,23 @@
   margin: 50px 30px 30px 30px;
 }
 
+body {
+  background-color: rgb(251, 251, 240);
+  color: rgb(31, 31, 89);
+}
+
+a {
+  color: rgb(31, 31, 89);
+}
+
+a:hover {
+  background-color: 'red';
+}
+
+a:visited {
+  text-decoration: 'none';
+  color: rgb(31, 31, 89);
+}
 /* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

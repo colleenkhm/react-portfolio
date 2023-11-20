@@ -21,3 +21,7 @@ i {
   vertical-align: middle;
   display: table-cell;
 }
+
+#footer {
+  margin-top: 80px;
+}
