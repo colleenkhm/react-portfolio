@@ -4,6 +4,8 @@ import { Grid } from '@mui/material'
 
 function Work() {
   return (
+    <>
+    <h2>Projects</h2>
     <Grid
       container
       className="section-container"
@@ -71,6 +73,7 @@ function Work() {
         </div>
       </Grid>
     </Grid>
+    </>
   )
 }
 
